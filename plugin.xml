@@ -44,7 +44,7 @@
 
         <header-file src="src/ios/ImglyIosCamera.h" />
         <source-file src="src/ios/ImglyIosCamera.m" />
-        <framework src="src/ios/imgly-sdk-ios-master/imglyKit.framework" custom="true" />
+        <framework src="src/ios/imglyKit.framework" custom="true" />
     </platform>
 
 
