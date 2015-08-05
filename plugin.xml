@@ -44,7 +44,6 @@
 
         <header-file src="src/ios/ImglyIosCamera.h" />
         <header-file src="src/ios/UR-Bridging-Header.h" />
-        <header-file src="src/ios/UR-Bridging-Header.h" />
         <source-file src="src/ios/ImglyIosCamera.m" />
         
     </platform>
