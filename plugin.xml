@@ -46,6 +46,8 @@
         <header-file src="src/ios/UR-Bridging-Header.h" />
         <source-file src="src/ios/ImglyIosCamera.m" />
         
+        <framework src="src/ios/imgly-sdk-ios-master/imglyKit.xcodeproj" custom="true" />
+        
     </platform>
 
 
